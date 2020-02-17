@@ -10,6 +10,7 @@ Jacob Boldman
 
 DevOps Engineer
 ===============
+
 Skills
 --------
 * Git
@@ -30,7 +31,7 @@ Projects
 
 * [Unitas](https://github.com/boldman/unitas)
 
-    This is my personal monorepo for
+    This is my personal monorepo, containing personal network infrastructure, configuration files, and personal website, including documentation.
 
 
 Work Experience
@@ -70,7 +71,9 @@ Work Experience
     
     > Deploying and managing satelite based networks.
     
-    > Troubleshooting 
+    > Troubleshooting network issues
+    
+    > Basic help desk troubleshooting on Windows machines.
     
     > Assisted in Fort Bliss base Network Operations Center, including helping manage VSphere based virtual machines and Cisco IOS based networking equipment.
 
